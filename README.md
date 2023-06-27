@@ -8,7 +8,6 @@ An Undergrad Student at Nirma-University & A Quick Learner looking for an opport
 <p>🌱 I'm currently learning DSA & LAMP Stack</p>
 <p>💬 Ask me about Problem-Solving & Development</p>
 <p>📫 How to reach me? rajdeepbodar7@gmail.com</p>
-<p>I regularly write articles on <a href="https://github.com/RAJDEEPBODAR7">https://github.com/RAJDEEPBODAR7</a></p>
 
 ## 💻 Skills
 <p>
